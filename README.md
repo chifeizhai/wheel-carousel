@@ -1,1 +1,1 @@
-# wheel-carousel
+# 简单的Carousel组件
